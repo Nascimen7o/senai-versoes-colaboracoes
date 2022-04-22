@@ -2,3 +2,5 @@
 Repositório de versões e colaborações
 
 redme de exemplo
+
+lembrei do comando: git status
